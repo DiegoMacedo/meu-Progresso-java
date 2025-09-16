@@ -1,4 +1,4 @@
-package enquanto;
+package lacos.enquanto;
 
 import java.util.Scanner;
 

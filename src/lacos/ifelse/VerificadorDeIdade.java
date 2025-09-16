@@ -1,4 +1,4 @@
-package ifelse;
+package lacos.ifelse;
 
 import java.util.Scanner;
 

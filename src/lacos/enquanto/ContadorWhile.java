@@ -1,4 +1,4 @@
-package enquanto;
+package lacos.enquanto;
 
 public class ContadorWhile {
     public static void main(String[] args) {
